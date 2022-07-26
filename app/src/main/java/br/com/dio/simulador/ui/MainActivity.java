@@ -1,4 +1,4 @@
-package br.com.dio.simulador;
+package br.com.dio.simulador.ui;
 
 import android.os.Bundle;
 import android.os.PersistableBundle;
@@ -18,5 +18,19 @@ public class MainActivity extends AppCompatActivity {
 
         binding = ActivityMainBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
+
+        setupMatchesList();
+        setupMatchesRefresh();
+        setupFloatingActionButton();
+    }
+
+    private void setupMatchesList(){
+            //TODO Listar partidas
+    }
+    private void setupMatchesRefresh(){
+        //TODO Listar partidas ao atualizar
+    }
+    private void setupFloatingActionButton(){
+        //TODO Evento de click
     }
 }
