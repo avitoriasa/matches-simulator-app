@@ -2,6 +2,8 @@
 <resources>
     <string name="app_name">Simulador</string>
 
+    <string name="error_api">Erro inesperado</string>
+
     <string name="txt_simulators">Botão de simulação de partidas</string>
     <string name="dc_imgteam1">Imagem time mandante</string>
     <string name="dc_imgteam2">Imagem do time adversário</string>

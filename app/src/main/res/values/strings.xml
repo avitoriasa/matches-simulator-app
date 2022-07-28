@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Simulator</string>
 
+    <string name="error_api">Unexpected error</string>
 
     <string name="txt_simulators">Matches simulation button</string>
     <string name="dc_imgteam1">Home team image</string>
